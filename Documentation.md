@@ -2,9 +2,9 @@
 
 ## 1. Project Overview
 
-The Airlines Data Analysis project is an end-to-end data processing and analysis pipeline built using Python, Pandas, MySQL, SQL, and Power BI.
+The project demonstrates a basic end-to-end data pipeline from raw flight data to cleaned data, database storage, analysis, and visualization.
 
-The project takes raw airline flight data from an Excel file, performs data cleaning and quality checks, stores the cleaned data in MySQL, performs KPI analysis using SQL, and visualizes the results using Power BI.
+The project takes raw airline flight data from an Excel file, performs data cleaning, stores the cleaned data in MySQL, performs KPI analysis using SQL, and visualizes the results using Power BI.
 
 ---
 
