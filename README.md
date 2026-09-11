@@ -19,7 +19,7 @@ SQL KPI Analysis
      ↓
 Power BI Dashboard
 ```
-Work Completed
+## Work Completed
 -Loaded the airline dataset from Excel using Python and Pandas.
 -Performed data cleaning and quality checks.
 -Handled missing and invalid values.
